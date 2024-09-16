@@ -101,8 +101,7 @@ export const projectsData = [
   {
     title: "Web Portfolio",
     description:
-      "An elegant dark-themed portfolio with smooth transitions and dynamic animations, offering a sleek and 
-      modern experience that showcases projects and skills with creativity and professionalism.",
+      "An elegant dark-themed portfolio with smooth transitions and dynamic animations, offering a sleek and modern experience",
     tags: ["Nextjs","React", "Javascript", "Framer Motion", "locomotive-scroll", "Tailwindcss", "GSAP", "SCSS"],
     imageUrl: WebPortDark,
     imagePath: "https://youknowprem.github.io/Dark-Theme-Web-Portfolio/"
@@ -110,8 +109,7 @@ export const projectsData = [
   {
     title: "Parinda Website",
     description:
-      "A clean, paper-themed portfolio with smooth animations and transitions, offering a minimalist,
-        creative layout to showcase projects and skills in a refined, professional manner.",
+      "A clean, paper-themed portfolio with smooth animations and transitions, offering a minimalist & creative layout for showcaseing",
     tags: ["Nextjs","React", "Typescript", "Framer Motion", "lenis-locomotive-scroll", "Tailwindcss"],
     imageUrl: Parinda,
     imagePath: "https://parinda-pi.vercel.app"
