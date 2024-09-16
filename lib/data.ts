@@ -92,49 +92,51 @@ export const projectsData = [
   {
     title: "Welcome Website",
     description:
-      "This Website is a kind of welcome page. It's a single page website with a touch of animations. ",
+      "This Website is a kind of welcome page. It's a single page website with a touch of elegant animations.",
     tags: ["HTML", "CSS", "Javascript", "Locomotive"],
     imageUrl: WelcomeImg,
     imagePath: "https://youknowprem.github.io/Welcome-to-India/",
   },
   
   {
-    title: "Design Agency Website",
+    title: "Web Portfolio",
     description:
-      "An Awwwards winning Brandbeet design studio website, with a lot of animations and interactions.",
-    tags: ["Nextjs","React", "Javascript", "Framer Motion", "lenis-locomotive-scroll", "Tailwindcss", "GSAP"],
+      "An elegant dark-themed portfolio with smooth transitions and dynamic animations, offering a sleek and 
+      modern experience that showcases projects and skills with creativity and professionalism.",
+    tags: ["Nextjs","React", "Javascript", "Framer Motion", "locomotive-scroll", "Tailwindcss", "GSAP", "SCSS"],
     imageUrl: WebPortDark,
-    imagePath: "https://designwebsite-nu.vercel.app/"
+    imagePath: "https://youknowprem.github.io/Dark-Theme-Web-Portfolio/"
   },
   {
-    title: "Refokus Website",
+    title: "Parinda Website",
     description:
-      "An Awwwards winning design studio website, with a lot of animations and interactions and navigate through pages",
-    tags: ["Nextjs","React", "Typescript", "Framer Motion", "lenis-locomotive-scroll", "Tailwindcss", "GSAP"],
+      "A clean, paper-themed portfolio with smooth animations and transitions, offering a minimalist,
+        creative layout to showcase projects and skills in a refined, professional manner.",
+    tags: ["Nextjs","React", "Typescript", "Framer Motion", "lenis-locomotive-scroll", "Tailwindcss"],
     imageUrl: Parinda,
-    imagePath: "https://refokus-websitedesign.vercel.app/"
+    imagePath: "https://parinda-pi.vercel.app"
   },
   {
-    title: "Design Studio Clone",
+    title: "Work Studio Clone",
     description:
       "An Awwwards winning Significo design studio website, with a lot of animations and interactions.",
     tags: ["Vite","React", "Javascript", "Framer Motion", "locomotive-scroll", "Tailwindcss", "GSAP"],
     imageUrl: WorkClone,
-    imagePath: "https://motion-project-alpha.vercel.app/"
+    imagePath: "https://clone-works-studio.vercel.app"
   },
   {
-    title: "Makepill Clone",
+    title: "Whack a Mole",
     description:
-      "An Awwwards winning Makepill studio website, with a lot of animations and interactions.",
+      "A fun, fast-paced Whack-a-Mole game with engaging visuals and smooth animations.",
     tags: ["Nextjs","React", "Javascript", "Framer Motion", "lenis", "Tailwindcss", "GSAP"],
     imageUrl: WhackImg,
-    imagePath: "https://makepill-redesign.vercel.app/"
+    imagePath: "https://whack-a-mole-10.vercel.app/"
   },  
   {
     title: "Interactive Star effect",
     description:
-      "This star will follow your lead till ",
-    tags: ["Vite","React", "Typescript", "Framer Motion", "locomotive-scroll", "Tailwindcss", 'GSAP'],
+      "This star will follow your lead till you hover your mouse on screen",
+    tags: ["Vite","React", "Typescript", "Framer Motion", "Tailwindcss", 'GSAP'],
     imageUrl: StarImg,
     imagePath: "https://youknowprem.github.io/starFollower"
   },
