@@ -1,0 +1,28 @@
+.my-custom-class .vertical-timeline-element-content.is-hidden {
+    display: block !important;
+    visibility: visible;
+}
+
+.line-class .vertical-timeline-element-icon.is-hidden {
+    display: block !important;
+    visibility: visible;  
+    border: 1px solid #d5d5d8;  
+    overflow: hidden;  
+}
+
+.line-class .vertical-timeline-element-icon {
+    border: 1px solid #e4e4e7;   
+}
+
+.vertical-timeline::before {
+    background: 'theme === "light" ? "#333" : "#fff';
+    width: 2px;
+    height: 100%;
+    left: 50%;
+    top: 0;
+    content: '';
+    position: absolute;   
+}
+
+    
+ 
