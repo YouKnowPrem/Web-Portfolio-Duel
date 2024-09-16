@@ -97,7 +97,7 @@ export const projectsData = [
     description:
       "I made Awwwards winning website Cuberto. It's a single page website with a lot of animations and interactions.",
     tags: ["HTML", "CSS", "Javascript", "GSAP", "Locomotive"],
-    imageUrl: cubertoImg,
+    imageUrl: cubertoImg
     imagePath: "https://poojahooda22.github.io/Cuberto-newWebsite-Clone/",
   },
   
