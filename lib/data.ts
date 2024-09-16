@@ -117,7 +117,7 @@ export const projectsData = [
   {
     title: "Work Studio Clone",
     description:
-      "An Awwwards winning Significo design studio website, with a lot of animations and interactions.",
+      "An Awwwards winning Work Studio design website, with a lot of animations and interactions.",
     tags: ["Vite","React", "Javascript", "Framer Motion", "locomotive-scroll", "Tailwindcss", "GSAP"],
     imageUrl: WorkClone,
     imagePath: "https://clone-works-studio.vercel.app"
