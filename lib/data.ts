@@ -94,7 +94,7 @@ export const projectsData = [
     description:
       "This Website is a kind of welcome page. It's a single page website with a touch of animations. ",
     tags: ["HTML", "CSS", "Javascript", "Locomotive"],
-    imageUrl: WelcomImg,
+    imageUrl: WelcomeImg,
     imagePath: "https://youknowprem.github.io/Welcome-to-India/",
   },
   
