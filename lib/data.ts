@@ -3,7 +3,7 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { FaServer } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import cubertoImg from "@/public/cubertonew.png";
+import WelcomImg from "@public/Welcome to India .png";
 import youtubeImg from "@/public/youtube-clone.png";
 import heroSectionImg from "@/public/hero section.png";
 import disneyNew from "@/public/disneyNew.png";
