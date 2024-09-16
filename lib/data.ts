@@ -3,23 +3,20 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { FaServer } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import WelcomImg from "@public/Welcome to India .png";
-import youtubeImg from "@/public/youtube-clone.png";
-import heroSectionImg from "@/public/hero section.png";
-import disneyNew from "@/public/disneyNew.png";
-import webImg from "@/public/webNew.png";
-import moveMouseImg from "@/public/moveMouse.png";
-import website3d from "@/public/website3d.png";
-import discord from "@/public/discord.png";
-import pill_image from "@/public/pil-img.png";
-import motion1 from "@/public/motion3.png";
-import motion2 from "@/public/motionSig.png";
-import obysPick from "@/public/obys.png";
-import makeImg from '@/public/pillMake.png'
-import pine from '@/public/pine.png'
-import brndbt from '@/public/brndbt.png'
-import airbnb from '@/public/airbnb.png'
-import refo from '@/public/refo.png'
+import WelcomeImg from "@public/Welcome to India .png";
+import AnimeWebImg from "@/public/AnimeWeb.png";
+import FlappyImg from "@public/Flappy bird .png";
+import MaclarenWeb from "@public/MaclarenWeb.png";
+import MoseosClone from "@/public/MoseosClone.png";
+import MotionImg from "@/public/Motion website.png";
+import ObysImg from "@/public/ObysClone.png";
+import Parinda from "@/public/Parinda.png";
+import Snakeweb from "@/public/Snakeweb.png";
+import StarImg from "@/public/StarEffect.png";
+import WebPortDark from "@/public/WebPortfoliodark.png";
+import Webclock from "@/public/Webclock.png";
+import WhackImg from "@/public/Whack-a-Mole.png";
+import WorkClone from "@/public/WorkClone.png";
 
 export const links = [
   {
