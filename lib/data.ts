@@ -103,7 +103,7 @@ export const projectsData = [
     description:
       "An Awwwards winning Brandbeet design studio website, with a lot of animations and interactions.",
     tags: ["Nextjs","React", "Javascript", "Framer Motion", "lenis-locomotive-scroll", "Tailwindcss", "GSAP"],
-    imageUrl: brndbt,
+    imageUrl: WebPortDark,
     imagePath: "https://designwebsite-nu.vercel.app/"
   },
   {
@@ -111,7 +111,7 @@ export const projectsData = [
     description:
       "An Awwwards winning design studio website, with a lot of animations and interactions and navigate through pages",
     tags: ["Nextjs","React", "Typescript", "Framer Motion", "lenis-locomotive-scroll", "Tailwindcss", "GSAP"],
-    imageUrl: refo,
+    imageUrl: Parinda,
     imagePath: "https://refokus-websitedesign.vercel.app/"
   },
   {
@@ -119,7 +119,7 @@ export const projectsData = [
     description:
       "An Awwwards winning Significo design studio website, with a lot of animations and interactions.",
     tags: ["Vite","React", "Javascript", "Framer Motion", "locomotive-scroll", "Tailwindcss", "GSAP"],
-    imageUrl: motion2,
+    imageUrl: WorkClone,
     imagePath: "https://motion-project-alpha.vercel.app/"
   },
   {
@@ -127,64 +127,64 @@ export const projectsData = [
     description:
       "An Awwwards winning Makepill studio website, with a lot of animations and interactions.",
     tags: ["Nextjs","React", "Javascript", "Framer Motion", "lenis", "Tailwindcss", "GSAP"],
-    imageUrl: makeImg,
+    imageUrl: WhackImg,
     imagePath: "https://makepill-redesign.vercel.app/"
   },  
   {
-    title: "Motion Website",
+    title: "Interactive Star effect",
     description:
-      "An Awwwards winning Ochi design website, with a lot of animations and interactions.",
+      "This star will follow your lead till ",
     tags: ["Vite","React", "Typescript", "Framer Motion", "locomotive-scroll", "Tailwindcss", 'GSAP'],
-    imageUrl: motion1,
-    imagePath: "https://motion-website-rose.vercel.app/"
+    imageUrl: StarImg,
+    imagePath: "https://youknowprem.github.io/starFollower"
   },
   {
-    title: "Obys Agency Clone",
+    title: "Duel Web clock",
     description:
-      "An Awwwards winning Obys design website, with a lot of animations and interactions.",
-    tags: ["Vite","React", "Javascript", "Framer Motion", "locomotive-scroll", "Tailwindcss", 'GSAP'],
-    imageUrl: obysPick,
+      "A web based web two clocks made using Basic HTML, CSS & JS ",
+    tags: ["HTML", "Javascript", "Framer Motion", "CSS"],
+    imageUrl: Webclock,
     imagePath: "https://obys-clone-ten.vercel.app/"
   },
   {
-    title: "Portfolio Website",
+    title: "Snake Web Game",
     description:
-      "My portfolio website, built with vanilla javascript and GSAP for motion.",
-    tags: ["HTML", "CSS", "Javascript", "GSAP"],
-    imageUrl: webImg,
-    imagePath: "https://poojahooda22.github.io/modern-website/"
+      "A web based snake game made using HTML & CSS.",
+    tags: ["HTML", "CSS"],
+    imageUrl: Snakeweb,
+    imagePath: "https://snake-game-ashen-psi.vercel.app"
   },
   {
-    title: "Disney+ Clone",
+    title: "Obys Clone",
     description:
-      "Clone the Disney+ homepage, with a slider that fetches movies from the TMDB API.",
+      "An Awwwards winning Obys design website, with a lot of animations and interactions.",
     tags: ["React", "Next js", "Typescript", "Motion"],
-    imageUrl: disneyNew,
-    imagePath: "https://disney-clone-eight-azure.vercel.app/"
+    imageUrl: ObysImg,
+    imagePath: "https://obys-clone-five.vercel.app"
   }, 
   {
-    title: "Airbnb Web App",
+    title: "Motion clone",
     description:
-      "It is a clone of Airbnb website, with a search bar that fetches hotels from the API.",
+      "An Awwwards winning Ochi design website, with a lot of animations and interactions.",
     tags: ["React", "Next js", "Typescript", "Three.js", "Prismic", "Framer Motion"],
-    imageUrl: airbnb,
-    imagePath: "https://airbnb-video-seven.vercel.app/"
+    imageUrl: MotionImg,
+    imagePath: "https://web-template1-rust.vercel.app/"
   },
   {
     title: "Landing Page",
     description:
       "A web page that display a video and animations.",
     tags: ["HTML", "CSS", "Javascript", "GSAP"],
-    imageUrl: heroSectionImg,
-    imagePath: "https://poojahooda22.github.io/landing-page-03/"
+    imageUrl: MoseosClone,
+    imagePath: "https://youknowprem.github.io/website/"
   },
   {
-    title: "Webpage 3D Rotation Animation",
+    title: "Theme Webpage",
     description:
-      "A web page that display a title and 3D rotation animation.",
-    tags: ["React", "Javascript", "GSAP", "Framer-motion"],
-    imageUrl: pine,
-    imagePath: "https://webpage-3danime.vercel.app/"
+      "A web page that is based on Maclaren theme.",
+    tags: ["React", "Javascript", "CSS", "HTML"],
+    imageUrl: MaclarenWeb,
+    imagePath: "https://youknowprem.github.io/Maclaren-Animated-Landing-Page"
   },
 ] as const;
 
