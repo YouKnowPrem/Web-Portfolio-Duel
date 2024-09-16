@@ -93,12 +93,12 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Cuberto Clone",
+    title: "Welcome Website",
     description:
-      "I made Awwwards winning website Cuberto. It's a single page website with a lot of animations and interactions.",
-    tags: ["HTML", "CSS", "Javascript", "GSAP", "Locomotive"],
-    imageUrl: cubertoImg
-    imagePath: "https://poojahooda22.github.io/Cuberto-newWebsite-Clone/",
+      "This Website is a kind of welcome page. It's a single page website with a touch of animations. ",
+    tags: ["HTML", "CSS", "Javascript", "Locomotive"],
+    imageUrl: WelcomImg,
+    imagePath: "https://youknowprem.github.io/Welcome-to-India/",
   },
   
   {
