@@ -144,7 +144,7 @@ export const projectsData = [
       "A web based web two clocks made using Basic HTML, CSS & JS ",
     tags: ["HTML", "Javascript", "Framer Motion", "CSS"],
     imageUrl: Webclock,
-    imagePath: "https://obys-clone-ten.vercel.app/"
+    imagePath: "https://web-duel-clock.vercel.app"
   },
   {
     title: "Snake Web Game",
