@@ -25,7 +25,7 @@ export default function About() {
         <span className=""> and learned web development.  My favorite part of programming</span> is the
         problem-solving aspect, and I <span className="underline">love</span> developing creative websites and applications with micro-interactions and animations that provide a delightful user experience.
         {" "} I have little knowledge of product design and development. 
-        <span className="font-medium"> My core stack is HTML, CSS and know bitts of Other basic langs as well
+        <span className="font-medium"> My core stack is HTML, CSS and know bits of Other basic langs as well
         </span>
          {" "}
         <span className="font-medium"></span>
